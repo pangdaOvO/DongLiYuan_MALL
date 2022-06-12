@@ -1,0 +1,130 @@
+[
+    {
+        "id": "001",
+        "name": "家用电器",
+        "keywords": [
+            "4K电视",
+            "节能补贴",       
+            "空气净化器",
+            "微波炉",
+            "节能风扇",
+            "电热水器"
+        ],
+        "imgUrl": ["小米 2022款 4K超高清电视机","满1999立减299","限时打折优惠","/images/tv.jpg"],
+        "navList": [
+            {
+                "url": "#",
+                "text": "热门"
+            },
+            {
+                "url": "#",
+                "text": "大家电"
+            },
+            {
+                "url": "#",
+                "text": "生活电器"
+            },
+            {
+                "url": "#",
+                "text": "厨房电器"
+            },
+            {
+                "url": "#",
+                "text": "应季电器"
+            },
+            {
+                "url": "#",
+                "text": "空气/净水"
+            },
+            {
+                "url": "#",
+                "text": "高端电器"
+            }
+        ],
+        "carouselList": [
+            {
+                "id": "0011",
+                "imgUrl": "/images/floor1-1.png"
+            },
+            {
+                "id": "0012",
+                "imgUrl": "/images/floor1-2.png"
+            },
+            {
+                "id": "0013",
+                "imgUrl": "/images/floor1-3.png"
+            }
+        ],
+        "recommendList": [
+            "/images/floor3-1.png",
+            "/images/floor3-2.png",
+            "/images/floor3-3.png",
+            "/images/floor3-5.png"
+        ],
+        "bigImg": "/images/floor3-4.png"
+    },
+    {
+        "id": "002",
+        "name": "电子数码",
+        "keywords": [
+            "华为笔记本",
+            "苹果专区 ",
+            "HUAWEI ",
+            "索尼单反相机",
+            "平板电脑",
+            "佳能数码"
+        ],
+    "imgUrl": ["华为笔记本电脑","¥3799.00","学生价","/images/com.png"],
+        "navList": [
+            {
+                "url": "#",
+                "text": "电子数码"
+            },
+            {
+                "url": "#",
+                "text": "数码"
+            },
+            {
+                "url": "#",
+                "text": "摄影摄像"
+            },
+            {
+                "url": "#",
+                "text": "智能设备"
+            },
+            {
+                "url": "#",
+                "text": "电子教育"
+            },
+            {
+                "url": "#",
+                "text": "手机配件"
+            },
+            {
+                "url": "#",
+                "text": "手机通讯"
+            }
+        ],
+        "carouselList": [
+            {
+                "id": "0011",
+                "imgUrl": "/images/floor2-1.png"
+            },
+            { 
+                "id": "0012",
+                "imgUrl": "/images/floor2-2.png"
+            },
+            {
+                "id": "0013",
+                "imgUrl": "/images/floor2-3.png"
+            }
+        ],
+        "recommendList": [
+            "/images/floor4-1.png",
+            "/images/floor4-2.png",
+            "/images/floor4-3.png",
+            "/images/floor4-4.png"
+        ],
+        "bigImg": "/images/floor4-5.png"
+    }
+]
